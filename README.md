@@ -6,11 +6,19 @@
 
 ## Sommaire
 
-1. Un peu d'histoire
-1. `vi`/`vim`/`neovim` ?
+1. Un (tout petit) peu d'histoire
+	1. [`ed`](https://fr.wikipedia.org/wiki/Ed_(logiciel)) (1973, [Ken Thompson](https://fr.wikipedia.org/wiki/Ken_Thompson))
+	1. [`ex`](https://fr.wikipedia.org/wiki/Ex_(%C3%A9diteur_de_texte)) (1976, Ken Thompson & Charles Haley)
+	1. [`vi`](https://fr.wikipedia.org/wiki/Vi) (1976, [Bill Joy](https://fr.wikipedia.org/wiki/Bill_Joy))
+	1. [`vim`](https://fr.wikipedia.org/wiki/Vim) (1991, [Bram Moolenaar](https://fr.wikipedia.org/wiki/Bram_Moolenaar))
+	1. [`neovim`](https://fr.wikipedia.org/wiki/Neovim) (2014, communautaire)
+	1. Les alternatives ([`nano`](https://fr.wikipedia.org/wiki/GNU_nano), [`emacs`](https://fr.wikipedia.org/wiki/Emacs))
+	1. [La *grande* guerre des éditeurs](https://fr.wikipedia.org/wiki/Guerre_d%27%C3%A9diteurs)
 1. Quid du _vim-mode_ ?
 1. Installer `vim`
 	1. Installation classique
+		1. [`vim`](https://github.com/vim/vim#installation)
+		1. [`neovim`](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 	1. Utilisation du docker **leny/vim**
 1. Les bases
 	1. Le _vimtutor_
@@ -38,7 +46,7 @@
 	1. Un plongée en `.vimrc`
 	1. Plugins & *dotfiles*
 1. Et maintenant ?
-	1. Vim golf
+	1. [Vim golf](https://www.vimgolf.com)
 	1. **tmux**
 		
 ## Ressources
