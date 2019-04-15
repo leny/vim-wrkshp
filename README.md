@@ -21,6 +21,7 @@
 		1. [`neovim`](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 	1. Utilisation du docker **leny/vim**
 1. Les bases
+	1. Quitter `vim`
 	1. Le _vimtutor_
 	1. Un petit mot sur les *modes*
 		1. `Normal`
@@ -37,11 +38,17 @@
 	1. Yank! Yank!
 		1. Le copier/coller dans vim
 		1. Les registres
+1. Organisation de l'espace de travail
+	1. Tabs
+	1. Splits
+	1. Buffers
 1. Un peu plus loin…
 	1. Mode `visual`
 	1. Marks
 	1. Macros
 	1. Mode `command`
+		1. Commandes vim
+		1. Commandes "*natives*"
 1. Configuration
 	1. Un plongée en `.vimrc`
 	1. Plugins & *dotfiles*
