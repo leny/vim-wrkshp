@@ -58,6 +58,8 @@
 		
 ## Ressources
 
+[![XKCD: Real Programmers](https://imgs.xkcd.com/comics/real_programmers.png)](https://xkcd.com/378/)
+
 ### Liens utiles
 
 * [vim-galore](https://github.com/mhinz/vim-galore) : une immense liste de ressources, tips, astuces, plugins…
