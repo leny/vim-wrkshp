@@ -78,7 +78,7 @@
 
 ### Container docker
 
-Je vous ai préparé un [container docker](https://hub.docker.com/r/leny/vim) qui contient _uniquement_ vim. Il vous permet de tester vim et/ou ses réglages sans risquer de "casser" votre config locale, ou de tester ce formidable éditeur sans avoir à l'installer.
+Je vous ai préparé un [container docker](https://hub.docker.com/r/leny/vim) (pensez donc à [installer docker](https://gist.github.com/leny/350456e7417d3e0f1d745e88c27b8268)) qui contient _uniquement_ vim. Il vous permet de tester vim et/ou ses réglages sans risquer de "casser" votre config locale, ou de tester ce formidable éditeur sans avoir à l'installer.
 
 Ce container est configuré avec deux volumes : le premier permet de *monter* un dossier de votre système pour y travailler avec vim, le second sert à stocker la configuration de vim pour qu'elle _persiste_ entre les lancements du container.
 
